@@ -1,0 +1,16 @@
+{
+  "short_name": "ROYASwap",
+  "name": "ROYASwap",
+  "description": "Farm ROYA with ROYASwap LP Tokens",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
